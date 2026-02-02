@@ -5,7 +5,7 @@
 ## Overview 
 This repository contains hands-on guides, reproducible notebooks, and short technical notes that show developers how to get real results with GPU-accelerated tools (PyTorch, TensorFlow, RAPIDS, CUDA, etc.). Content favors concrete examples, clear tradeoffs, and measured benchmarks over abstract feature lists. Expect code snippets, environment recipes, and reproducible benchmark artifacts (CSV / Apache Arrow) so readers can verify results on their hardware.
 
-> Goal: help engineers ship faster, make smarter tool choices, and understand where GPUs (CUDA cores, Tensor Cores, GPU memory) materially improve workload performance.
+> Goal: exploring how to make smarter tool choices and understand where GPUs (CUDA cores, Tensor Cores, GPU memory) materially improve workload performance.
 
 ---
 

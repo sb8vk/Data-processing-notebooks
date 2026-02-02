@@ -112,8 +112,3 @@ Measure and report: median runtime over N runs, peak GPU memory (via `nvidia-smi
   - Linting (black, ruff)
   - Notebook smoke tests (CPU)
   - Full benchmark reproducibility job (self-hosted GPU runner)
-
-
-## Questions, feedback, or a benchmark you'd like added? 
-Open an issue or submit a PR. If you have access to interesting hardware (NVLink clusters, RTX/Quadro/ADA cards), share logs and raw results so we can reproduce and learn together.
-

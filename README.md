@@ -26,9 +26,3 @@ nvidia-smi
 # Confirm CUDA toolkit on PATH
 nvcc --version
 ```
-
-- GPU-enabled CI: prefer self-hosted runners with available GPUs or use cloud CI that exposes GPUs. When GPUs aren't available, validate logic with CPU fallbacks and mock metrics.
-- Example CI jobs:
-  - Linting (black, ruff)
-  - Notebook smoke tests (CPU)
-  - Full benchmark reproducibility job (self-hosted GPU runner)

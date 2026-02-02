@@ -1,4 +1,4 @@
-# Collection of executable notebooks focused on GPU-accelerated data science & ML.
+# Collection of executable notebooks exploring data science & ML.
 
 ---
 
